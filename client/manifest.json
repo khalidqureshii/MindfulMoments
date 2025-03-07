@@ -1,7 +1,7 @@
 {
     "name": "MINDFUL MOMENTS",
     "short_name": "mm",
-    "start_url" : "/index.html",
+    "start_url" : "/",
     "icons" : [
         {
             "src": "/favicon1.png",
