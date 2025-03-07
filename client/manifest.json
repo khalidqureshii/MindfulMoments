@@ -1,0 +1,32 @@
+{
+    "name": "MINDFUL MOMENTS",
+    "short_name": "mm",
+    "start_url" : "/index.html",
+    "icons" : [
+        {
+            "src": "/favicon1.png",
+            "type": "image/png",
+            "sizes" : "128x128"
+        },
+        {
+            "src": "/favicon2.png",
+            "type": "image/png",
+            "sizes" : "144x144"
+        }
+    ],
+    "screenshots": [
+        {
+            "src":"/book.png",
+            "type":"image/png",
+            "sizes":"500x750",
+            "form_factor": "wide"
+        },
+        {
+            "src":"/book.png",
+            "type":"image/png",
+            "sizes":"500x750",
+            "form_factor": "narrow"
+        }
+    ],
+    "display": "fullscreen"
+}
